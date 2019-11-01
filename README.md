@@ -4,10 +4,10 @@ This repository is R Studio for Kaggle Dataset, https://www.kaggle.com/c/titanic
 
 * The RMS Titanic was not only the largest ship at that time but also the largest man-made moving object in the world. It was the most deathful/fatal maritime disaster with over 1500 casualties. It is almost %68 of the total passengers and crew. There are several facts about the Titanic disaster. Such as;
 
-- An insufficient number of boats (20 out of 64 boats) that cause this huge number of deaths,
-- Most of the survivors being woman and children,
-- The most expensive first-class suites priced up to £870 in peak season (£79,000 today) according to Wikipedia.
-- Titanic disaster is one of the most important catastrophes that data examination may provide details about survived and non-survived passenger characteristics. Thus, it is crucial to understand survivor profiles in order to save other lives.
+   - An insufficient number of boats (20 out of 64 boats) that cause this huge number of deaths,
+   - Most of the survivors being woman and children,
+   - The most expensive first-class suites priced up to £870 in peak season (£79,000 today) according to Wikipedia.
+   - Titanic disaster is one of the most important catastrophes that data examination may provide details about survived and non-survived passenger characteristics. Thus, it is crucial to understand survivor profiles in order to save other lives.
 
 * The project have 4 main topics:
    
